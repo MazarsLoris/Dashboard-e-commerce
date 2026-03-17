@@ -1,0 +1,34 @@
+/* Définition des couleurs de la charte graphique */
+:root {
+  --primary-color: #3a506b;
+  --secondary-color: #5bc0be;
+  --accent-color: #1c2541;
+  --error-color: #e74c3c;
+  --warning-color: #f39c12;
+  --success-color: #2ecc71;
+  --bg-color: #f8f9fa;
+  --text-dark: #2c3e50;
+}
+
+/* Style général de la page */
+body {
+  margin: 0;
+  font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  /* Utilisation des variables */
+  background-color: var(--bg-color);
+  color: var(--text-dark);
+  
+  /* Espace pour ne pas être caché sous la navbar fixe */
+  padding-top: 80px; 
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
