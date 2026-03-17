@@ -1,0 +1,39 @@
+produit_id,nom_produit,categorie,sous_categorie,prix_unitaire,stock_actuel,fournisseur,date_ajout,statut,note_moyenne,nb_avis
+TECH001,Smartphone Galaxy Pro,Technologie,Téléphones,500.00,45,Samsung,2023-01-15,Actif,4.3,156
+TECH002,iPhone 15 Pro,Technologie,Téléphones,650.00,32,Apple,2023-02-20,Actif,4.5,243
+TECH003,MacBook Air M2,Technologie,Ordinateurs,1200.00,18,Apple,2023-03-10,Actif,4.7,89
+TECH004,Dell XPS 13,Technologie,Ordinateurs,950.00,25,Dell,2023-04-05,Actif,4.2,67
+TECH005,iPad Pro 12.9,Technologie,Tablettes,800.00,41,Apple,2023-01-28,Actif,4.4,134
+TECH006,Surface Pro 9,Technologie,Tablettes,750.00,29,Microsoft,2023-05-12,Actif,4.1,78
+TECH007,AirPods Pro 2,Technologie,Audio,250.00,67,Apple,2023-02-14,Actif,4.6,298
+TECH008,Sony WH-1000XM5,Technologie,Audio,350.00,38,Sony,2023-03-22,Actif,4.5,167
+TECH009,Canon EOS R6,Technologie,Photo,2100.00,12,Canon,2023-06-01,Actif,4.8,34
+TECH010,Nintendo Switch OLED,Technologie,Jeux,320.00,55,Nintendo,2023-01-30,Actif,4.4,201
+HOME001,Canapé Scandinave 3 places,Maison,Mobilier,450.00,15,IKEA,2023-02-03,Actif,4.1,89
+HOME002,Table basse en chêne,Maison,Mobilier,280.00,22,Maisons du Monde,2023-03-18,Actif,4.3,56
+HOME003,Aspirateur robot Roomba,Maison,Électroménager,399.00,31,iRobot,2023-01-25,Actif,4.2,145
+HOME005,Machine à café Nespresso,Maison,Électroménager,180.00,48,Nespresso,2023-04-10,Actif,4.5,203
+HOME007,Lampe design LED,Maison,Éclairage,89.00,73,Philips,2023-02-28,Actif,4.0,112
+HOME009,Miroir salle de bain,Maison,Salle de bain,120.00,26,Leroy Merlin,2023-05-05,Actif,3.9,67
+HOME012,Coussin décoratif,Maison,Décoration,25.00,156,H&M Home,2023-03-15,Actif,4.2,234
+HOME015,Plante artificielle,Maison,Décoration,35.00,89,Truffaut,2023-06-20,Actif,3.8,78
+FASH008,Robe été fleurie,Mode,Femme,65.00,42,Zara,2023-04-12,Actif,4.1,89
+FASH012,Jean slim homme,Mode,Homme,75.00,58,Levi's,2023-01-20,Actif,4.3,167
+FASH015,Sneakers blanches,Mode,Chaussures,120.00,33,Nike,2023-03-25,Actif,4.4,201
+FASH020,Sac à main cuir,Mode,Accessoires,180.00,24,Louis Vuitton,2023-05-18,Actif,4.6,45
+FASH025,T-shirt bio coton,Mode,Unisexe,28.00,97,Patagonia,2023-02-08,Actif,4.2,156
+FASH030,Veste en jean,Mode,Unisexe,85.00,41,Diesel,2023-06-15,Actif,4.0,78
+SPORT001,Vélo électrique urbain,Sport,Cyclisme,1200.00,8,Décathlon,2023-03-01,Actif,4.5,67
+SPORT003,Raquette tennis Wilson,Sport,Tennis,89.00,45,Wilson,2023-04-20,Actif,4.3,123
+SPORT005,Chaussures running,Sport,Course,130.00,52,Adidas,2023-01-12,Actif,4.4,189
+SPORT007,Sac de sport,Sport,Accessoires,45.00,73,Nike,2023-02-25,Actif,4.1,145
+SPORT009,Montre GPS Garmin,Sport,Technologie,299.00,19,Garmin,2023-05-30,Actif,4.7,89
+LIVRE001,Roman policier bestseller,Livres,Fiction,12.90,156,Gallimard,2023-01-05,Actif,4.2,267
+LIVRE003,Guide voyage Japon,Livres,Voyage,24.50,34,Lonely Planet,2023-03-12,Actif,4.4,78
+LIVRE005,Livre cuisine italienne,Livres,Cuisine,18.90,67,Hachette,2023-04-28,Actif,4.3,134
+BEAU001,Crème hydratante visage,Beauté,Soins,32.00,89,L'Oréal,2023-02-15,Actif,4.1,201
+BEAU003,Parfum femme 50ml,Beauté,Parfums,78.00,23,Chanel,2023-05-08,Actif,4.6,89
+BEAU005,Shampooing bio,Beauté,Cheveux,15.90,134,Klorane,2023-03-30,Actif,4.0,156
+JARD001,Tondeuse électrique,Jardin,Outils,189.00,14,Bosch,2023-04-15,Actif,4.2,45
+JARD003,Barbecue gaz 3 feux,Jardin,Cuisine extérieure,299.00,8,Weber,2023-05-25,Actif,4.5,67
+JARD005,Salon de jardin 6 places,Jardin,Mobilier,450.00,5,Gifi,2023-06-10,Actif,3.9,23
