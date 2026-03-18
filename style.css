@@ -1,0 +1,27 @@
+:root {
+    --primary-color: #3a506b;
+    --secondary-color: #5bc0be;
+    --accent-color: #1c2541;
+    --error-color: #e74c3c;
+    --warning-color: #f39c12;
+    --success-color: #2ecc71;
+}
+
+body { background-color: #f8f9fa; }
+
+.sidebar { min-height: 100vh; background: var(--accent-color); color: white; padding: 20px 0; }
+.nav-link { color: #adb5bd; cursor: pointer; transition: 0.3s; padding: 10px 20px; }
+.nav-link:hover, .nav-link.active { color: white; background: rgba(255,255,255,0.1); }
+
+.kpi-card { border: none; border-radius: 10px; border-left: 5px solid #ccc; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+.kpi-card.success { border-left-color: var(--success-color); }
+.kpi-card.warning { border-left-color: var(--warning-color); }
+.kpi-card.error { border-left-color: var(--error-color); }
+.kpi-value { font-size: 1.8rem; font-weight: bold; }
+
+.chart-container { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); margin-bottom: 20px; min-height: 350px; }
+.status-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 5px; }
+.status-dot.success { background-color: var(--success-color); }
+
+.positive { color: var(--success-color); font-weight: bold; }
+.negative { color: var(--error-color); }

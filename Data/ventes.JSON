@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "source": "Système de gestion des ventes",
+    "last_updated": "2024-09-15T14:30:00Z",
+    "version": "1.2.1",
+    "total_records": 12
+  },
+  "ventes_mensuelles": [
+    {
+      "mois": "2024-01",
+      "chiffre_affaires": 125840.50,
+      "nombre_commandes": 342,
+      "panier_moyen": 368.13,
+      "taux_conversion": 3.2,
+      "visiteurs_uniques": 10687,
+      "top_produits": [
+        {"produit_id": "TECH001", "quantite": 45, "ca": 22500},
+        {"produit_id": "HOME003", "quantite": 67, "ca": 13400},
+        {"produit_id": "FASH012", "quantite": 89, "ca": 8900}
+      ]
+    },
+    {
+      "mois": "2024-02",
+      "chiffre_affaires": 143620.75,
+      "nombre_commandes": 398,
+      "panier_moyen": 360.85,
+      "taux_conversion": 3.7,
+      "visiteurs_uniques": 10756,
+      "top_produits": [
+        {"produit_id": "TECH002", "quantite": 52, "ca": 26000},
+        {"produit_id": "HOME001", "quantite": 71, "ca": 14200},
+        {"produit_id": "FASH008", "quantite": 94, "ca": 9400}
+      ]
+    },
+    {
+      "mois": "2024-03",
+      "chiffre_affaires": 167890.25,
+      "nombre_commandes": 451,
+      "panier_moyen": 372.26,
+      "taux_conversion": 4.1,
+      "visiteurs_uniques": 11003,
+      "top_produits": [
+        {"produit_id": "TECH003", "quantite": 63, "ca": 31500},
+        {"produit_id": "HOME005", "quantite": 82, "ca": 16400},
+        {"produit_id": "FASH015", "quantite": 106, "ca": 10600}
+      ]
+    },
+    {
+      "mois": "2024-04",
+      "chiffre_affaires": 156340.80,
+      "nombre_commandes": 423,
+      "panier_moyen": 369.69,
+      "taux_conversion": 3.9,
+      "visiteurs_uniques": 10845,
+      "top_produits": [
+        {"produit_id": "TECH001", "quantite": 58, "ca": 29000},
+        {"produit_id": "HOME002", "quantite": 75, "ca": 15000},
+        {"produit_id": "SPORT007", "quantite": 91, "ca": 9100}
+      ]
+    },
+    {
+      "mois": "2024-05",
+      "chiffre_affaires": 189750.40,
+      "nombre_commandes": 512,
+      "panier_moyen": 370.41,
+      "taux_conversion": 4.3,
+      "visiteurs_uniques": 11912,
+      "top_produits": [
+        {"produit_id": "TECH004", "quantite": 69, "ca": 34500},
+        {"produit_id": "HOME007", "quantite": 88, "ca": 17600},
+        {"produit_id": "FASH020", "quantite": 118, "ca": 11800}
+      ]
+    },
+    {
+      "mois": "2024-06",
+      "chiffre_affaires": 198620.15,
+      "nombre_commandes": 534,
+      "panier_moyen": 372.10,
+      "taux_conversion": 4.5,
+      "visiteurs_uniques": 11867,
+      "top_produits": [
+        {"produit_id": "TECH005", "quantite": 72, "ca": 36000},
+        {"produit_id": "SPORT003", "quantite": 95, "ca": 19000},
+        {"produit_id": "HOME009", "quantite": 103, "ca": 12360}
+      ]
+    },
+    {
+      "mois": "2024-07",
+      "chiffre_affaires": 234890.60,
+      "nombre_commandes": 623,
+      "panier_moyen": 377.03,
+      "taux_conversion": 4.8,
+      "visiteurs_uniques": 12979,
+      "top_produits": [
+        {"produit_id": "TECH002", "quantite": 84, "ca": 42000},
+        {"produit_id": "SPORT001", "quantite": 112, "ca": 22400},
+        {"produit_id": "FASH025", "quantite": 134, "ca": 13400}
+      ]
+    },
+    {
+      "mois": "2024-08",
+      "chiffre_affaires": 245620.85,
+      "nombre_commandes": 651,
+      "panier_moyen": 377.30,
+      "taux_conversion": 4.9,
+      "visiteurs_uniques": 13286,
+      "top_produits": [
+        {"produit_id": "TECH006", "quantite": 87, "ca": 43500},
+        {"produit_id": "SPORT005", "quantite": 118, "ca": 23600},
+        {"produit_id": "HOME012", "quantite": 142, "ca": 14200}
+      ]
+    },
+    {
+      "mois": "2024-09",
+      "chiffre_affaires": 198450.30,
+      "nombre_commandes": 536,
+      "panier_moyen": 370.24,
+      "taux_conversion": 4.2,
+      "visiteurs_uniques": 12762,
+      "top_produits": [
+        {"produit_id": "TECH003", "quantite": 76, "ca": 38000},
+        {"produit_id": "FASH030", "quantite": 108, "ca": 21600},
+        {"produit_id": "HOME015", "quantite": 125, "ca": 12500}
+      ],
+      "note": "Données partielles - mois en cours"
+    }
+  ],
+  "kpi_globaux": {
+    "croissance_ca": 12.4,
+    "retention_client": 67.8,
+    "cout_acquisition": 24.50,
+    "satisfaction_moyenne": 4.2,
+    "taux_retour": 2.1
+  },
+  "anomalies": [
+    {
+      "date": "2024-07-15",
+      "type": "pic_trafic",
+      "description": "Campagne marketing exceptionnelle"
+    },
+    {
+      "date": "2024-04-22",
+      "type": "baisse_conversion",
+      "description": "Problème technique site web"
+    }
+  ]
+}
